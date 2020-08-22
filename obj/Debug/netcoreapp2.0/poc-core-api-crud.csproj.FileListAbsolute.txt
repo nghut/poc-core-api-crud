@@ -1,0 +1,11 @@
+D:\Mine\Ongoing\Gitub\poc-core-api-crud\bin\Debug\netcoreapp2.0\poc-core-api-crud.deps.json
+D:\Mine\Ongoing\Gitub\poc-core-api-crud\bin\Debug\netcoreapp2.0\poc-core-api-crud.runtimeconfig.json
+D:\Mine\Ongoing\Gitub\poc-core-api-crud\bin\Debug\netcoreapp2.0\poc-core-api-crud.runtimeconfig.dev.json
+D:\Mine\Ongoing\Gitub\poc-core-api-crud\bin\Debug\netcoreapp2.0\poc-core-api-crud.dll
+D:\Mine\Ongoing\Gitub\poc-core-api-crud\bin\Debug\netcoreapp2.0\poc-core-api-crud.pdb
+D:\Mine\Ongoing\Gitub\poc-core-api-crud\obj\Debug\netcoreapp2.0\poc-core-api-crud.csprojAssemblyReference.cache
+D:\Mine\Ongoing\Gitub\poc-core-api-crud\obj\Debug\netcoreapp2.0\poc-core-api-crud.csproj.CoreCompileInputs.cache
+D:\Mine\Ongoing\Gitub\poc-core-api-crud\obj\Debug\netcoreapp2.0\poc-core-api-crud.AssemblyInfoInputs.cache
+D:\Mine\Ongoing\Gitub\poc-core-api-crud\obj\Debug\netcoreapp2.0\poc-core-api-crud.AssemblyInfo.cs
+D:\Mine\Ongoing\Gitub\poc-core-api-crud\obj\Debug\netcoreapp2.0\poc-core-api-crud.dll
+D:\Mine\Ongoing\Gitub\poc-core-api-crud\obj\Debug\netcoreapp2.0\poc-core-api-crud.pdb
